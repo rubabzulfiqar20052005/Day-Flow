@@ -53,20 +53,8 @@
 ---
 
 ## 📸 Screenshots
+- I have attached all screenshots of my app in screenshots folder
 
-> *(Add screenshots here by replacing the placeholders below)*
-
-| Home Screen | Calendar View | Habit Tracker |
-|:-----------:|:-------------:|:-------------:|
-| `screenshot1.png` | `screenshot2.png` | `screenshot3.png` |
-
-| Notes | Settings | Feedback |
-|:-----:|:--------:|:--------:|
-| `screenshot4.png` | `screenshot5.png` | `screenshot6.png` |
-
----
-
-## 🚀 Getting Started
 
 ### Prerequisites
 - Android Studio (latest version recommended)
@@ -77,12 +65,12 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/DayFlow.git
+   git clone https://github.com/rubabzulfiqar20052005/Day-Flow.git
    ```
 
 2. **Open in Android Studio**
    ```
-   File → Open → Select the DayFlow folder
+   File → Open → Select the Day-Flow folder
    ```
 
 3. **Sync Gradle**
@@ -166,7 +154,7 @@ BS Computer Science | University of Narowal
 Batch 2023–2027
 
 [![GitHub](https://img.shields.io/badge/GitHub-rubabzulfiqar20052005-181717?style=flat&logo=github)](https://github.com/rubabzulfiqar20052005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rubab-zulfiqar-569505374/)
 
 </div>
 
