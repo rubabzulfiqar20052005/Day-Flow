@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DayFlow</string>
+    <string name="settings">Settings</string>
+    <string name="privacy_policy_text">
+    DayFlow Privacy Policy\n\n
+    1) Information We Collect\n
+    We may collect basic information such as name and email (if you provide it).\n\n
+    2) How We Use Information\n
+    We use your information to improve app experience and personalize features.\n\n
+    3) Data Storage\n
+    Your tasks and preferences may be stored locally on your device.\n\n
+    4) Sharing\n
+    We do not sell your personal data. We do not share it with third parties without your consent.\n\n
+    5) Security\n
+    We take reasonable steps to protect your data, but no method is 100% secure.\n\n
+    6) Changes\n
+    This policy may be updated in future versions.\n\n
+    Contact\n
+    If you have any questions, contact us at: support@dayflow.app
+</string>
+
+</resources>
