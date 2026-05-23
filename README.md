@@ -99,7 +99,7 @@
 
 ## 📦 Download APK
 
-> 🔽 [Download Latest Release](https://github.com/your-username/DayFlow/releases/latest)
+> 🔽 [Download Latest Release](https://github.com/rubabzulfiqar20052005/Day-Flow/releases/tag/v1.0.0)
 
 Install directly on your Android device — no Play Store needed!
 
